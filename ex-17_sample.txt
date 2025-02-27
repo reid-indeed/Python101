@@ -1,0 +1,10 @@
+Scandium: 44.96
+Titanium: 47.87
+Vanadium: 50.94
+Chromium: 51.996
+Manganese: 54.938
+Iron: 55.845
+Cobalt: 58.933
+Nickel: 58.693
+Copper: 63.546
+Zinc: 65.38
